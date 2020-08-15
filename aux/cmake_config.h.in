@@ -1,0 +1,2 @@
+#define NewProject_VERSION_MAJOR @NewProject_VERSION_MAJOR@
+#define NewProject_VERSION_MINOR @NewProject_VERSION_MINOR@
